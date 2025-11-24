@@ -1,4 +1,4 @@
-# Timber Tock V1
+# iClock Mk.I
 
 A basic clock program built using Python.
 
